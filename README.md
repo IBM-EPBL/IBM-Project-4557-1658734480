@@ -29,6 +29,6 @@ They can make the decision whether to water the crop or postpone it by monitorin
 
 ## Demo
 
-Insert gif or link to demo
+https://www.youtube.com/watch?v=lFdhIfDnmo0
 
 
